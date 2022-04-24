@@ -1,0 +1,16 @@
+{
+  "main.css": "/strona/static/css/main.c99b21cc.chunk.css",
+  "main.js": "/strona/static/js/main.7005b767.chunk.js",
+  "main.js.map": "/strona/static/js/main.7005b767.chunk.js.map",
+  "runtime~main.js": "/strona/static/js/runtime~main.b3814703.js",
+  "runtime~main.js.map": "/strona/static/js/runtime~main.b3814703.js.map",
+  "static/js/2.c580d107.chunk.js": "/strona/static/js/2.c580d107.chunk.js",
+  "static/js/2.c580d107.chunk.js.map": "/strona/static/js/2.c580d107.chunk.js.map",
+  "index.html": "/strona/index.html",
+  "precache-manifest.23e24568c51474d94bc1e0d59eebcd98.js": "/strona/precache-manifest.23e24568c51474d94bc1e0d59eebcd98.js",
+  "service-worker.js": "/strona/service-worker.js",
+  "static/css/main.c99b21cc.chunk.css.map": "/strona/static/css/main.c99b21cc.chunk.css.map",
+  "static/media/header1.jpg": "/strona/static/media/header1.70e6670e.jpg",
+  "static/media/header2.jpg": "/strona/static/media/header2.33eca35f.jpg",
+  "static/media/header3.jpg": "/strona/static/media/header3.d9d36b65.jpg"
+}
