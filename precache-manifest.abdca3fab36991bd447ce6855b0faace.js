@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7005b767cfb6e4b46921",
+    "revision": "1d43e331cb52caf05797",
     "url": "/strona/static/css/main.c99b21cc.chunk.css"
   },
   {
-    "revision": "7005b767cfb6e4b46921",
-    "url": "/strona/static/js/main.7005b767.chunk.js"
+    "revision": "1d43e331cb52caf05797",
+    "url": "/strona/static/js/main.1d43e331.chunk.js"
   },
   {
     "revision": "b38147032484e642abff",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/strona/static/media/header2.33eca35f.jpg"
   },
   {
-    "revision": "b713bb112c0e9b7ac3e96c5fc90b92c6",
+    "revision": "e3b6017cb71ed7e3b0a0e81906924e97",
     "url": "/strona/index.html"
   }
 ];
